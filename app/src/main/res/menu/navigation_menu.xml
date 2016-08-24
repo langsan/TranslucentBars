@@ -4,9 +4,19 @@
     xmlns:tools="http://schemas.android.com/tools">
     <group android:checkableBehavior="single">
         <item
-            android:id="@+id/navigation_item_news"
+            android:id="@+id/main"
             android:checked="true"
             android:title="主页(仅展示用)">
+        </item>
+        <item
+            android:id="@+id/setting"
+            android:checked="true"
+            android:title="设置(仅展示用)">
+        </item>
+        <item
+            android:id="@+id/about_me"
+            android:checked="true"
+            android:title="关于我(仅展示用)">
         </item>
     </group>
 

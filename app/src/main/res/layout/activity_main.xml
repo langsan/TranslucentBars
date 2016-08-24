@@ -40,8 +40,8 @@
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:layout_gravity="center_vertical"
-                        android:text="这里可以自定义TabLayout（上滑试试看）"/>
+                        android:layout_gravity="center"
+                        android:text="这里模拟TabLayout（上滑试试看）"/>
                 </FrameLayout>
 
             </android.support.design.widget.CollapsingToolbarLayout>
